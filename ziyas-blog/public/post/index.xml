@@ -11,6 +11,16 @@
     
     
     <item>
+      <title>Switched to Netlify</title>
+      <link>http://ziya.suzen.net/post/switch_to_netlify/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ziya.suzen.net/post/switch_to_netlify/</guid>
+      <description>Switched from GitHub Pages to Netlify to host my blog. My repos are still kept on GitHub. On top of static site serving, Netlify seems to have offerings for executed or dynamic content as well, which I might make use of in the future.
+I&amp;rsquo;m keeping the repo here: github.com/mtmk/blog-hugo/ziyas-blog</description>
+    </item>
+    
+    <item>
       <title>Finally Switched to Hugo</title>
       <link>http://ziya.suzen.net/post/switch_to_hugo/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
