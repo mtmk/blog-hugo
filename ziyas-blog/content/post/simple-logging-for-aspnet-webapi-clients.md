@@ -1,6 +1,4 @@
 ---
-aliases:
-  - /c#/asp.net/webapi/logging/log4net/2015/02/28/simple-logging-for-aspnet-webapi-clients.html
 title:  "Simple logging for ASP.NET Web API clients"
 date:   2015-02-28
 ---

@@ -1,6 +1,4 @@
 ---
-aliases:
-    - /c#/caching/2015/03/11/simple-cache-manager-dot-net.html
 title: "Lightweight Cache Manager for .Net"
 date: 2015-03-11
 ---

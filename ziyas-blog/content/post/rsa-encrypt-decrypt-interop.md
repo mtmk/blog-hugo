@@ -1,6 +1,4 @@
 ---
-aliases:
-    - /c#/objective-c/javascript/java/rsa/crypto/encryption/decryption/security/web/2015/03/15/rsa-encrypt-decrypt-interop.html
 title:  "RSA Encryption and Decryption on the Web"
 date:   2015-03-15
 ---
